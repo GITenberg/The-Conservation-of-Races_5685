@@ -1,0 +1,30 @@
+_repo: The-Conservation-of-Races_5685
+creator:
+  author:
+    agent_name: Du Bois, W. E. B. (William Edward Burghardt)
+    aliases:
+    - DuBois, W. E. Burghardt
+    - Bois, W. E. B. Du
+    - DuBois, W. E. B. (William Edward Burghardt)
+    birthdate: 1868
+    deathdate: 1963
+    gutenberg_agent_id: '226'
+    url: http://www.gutenberg.org/2009/agents/226
+    wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5685'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: American Negro Academy. Occasional Papers, No. 2
+subjects:
+- !lcsh 'African Americans -- Race identity'
+- !lcc 'E151'
+- !lcsh 'African Americans -- Social conditions'
+- !lcsh 'United States -- Race relations'
+title: The Conservation of Races
+url: http://www.gutenberg.org/ebooks/5685
