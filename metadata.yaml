@@ -1,5 +1,8 @@
 _repo: The-Conservation-of-Races_5685
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Du Bois, W. E. B. (William Edward Burghardt)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/226
     wikipedia: http://en.wikipedia.org/wiki/W._E._B._DuBois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5685#The-Conservation-of-Races
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
