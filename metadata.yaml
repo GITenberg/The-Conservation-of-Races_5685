@@ -1,5 +1,5 @@
 _repo: The-Conservation-of-Races_5685
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'E151'
 - !lcsh 'African Americans -- Social conditions'
 - !lcsh 'United States -- Race relations'
+- GITenberg
 title: The Conservation of Races
 url: http://www.gutenberg.org/ebooks/5685
